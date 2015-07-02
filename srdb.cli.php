@@ -1,4 +1,4 @@
-#!/usr/bin/php -q
+#!/usr/bin/php5.4-sp -q
 <?php
 
 /**
